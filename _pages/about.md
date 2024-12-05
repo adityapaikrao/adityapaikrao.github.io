@@ -8,7 +8,7 @@ redirect_from:
 ---
 ![image](./images/3953273590_704e3899d5_m.jpg){: style="float: right; margin-right=1em;"}
 
-bRuHH
+<PLACEHOLDER>
 
 <!-- <div class="text-with-image">
     <p>
